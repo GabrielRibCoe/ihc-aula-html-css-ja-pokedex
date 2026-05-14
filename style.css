@@ -1,0 +1,18 @@
+#poke-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px;
+    gap: 20px;
+    color: rgb(248, 221, 132);
+}
+
+#poke-list li {
+    list-style: none;
+    background-color: #cc9143;
+    border-radius: 10px;
+    padding: 20px;
+    width: auto;
+    text-align: center;
+}
+
